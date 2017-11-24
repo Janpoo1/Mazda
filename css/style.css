@@ -136,6 +136,10 @@ h2 {
   width: 100%;
 }
 
+#Video {
+  margin-left: 3%;
+}
+
 .icon-block {
   padding: 0 15px;
 }
