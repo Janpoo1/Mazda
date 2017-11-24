@@ -149,7 +149,7 @@ h2 {
 
 footer.page-footer {
   margin: 0;
-  background-color: #100c08;
+  background-color: #032B43;
 }
 
 .social-icon {
@@ -159,5 +159,5 @@ font-size: 1.1em;
 }
 
 .social-icon:hover {
-  color:#032B43;
+  color:#d50000;
 }
